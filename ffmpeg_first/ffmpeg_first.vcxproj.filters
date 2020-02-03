@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Sourceffmpeg.cpp" />
+    <ClCompile Include="Practice01.cpp" />
+    <ClCompile Include="tutorial01.c" />
+    <ClCompile Include="Stream.c" />
+    <ClCompile Include="Source.cpp" />
+  </ItemGroup>
+</Project>
